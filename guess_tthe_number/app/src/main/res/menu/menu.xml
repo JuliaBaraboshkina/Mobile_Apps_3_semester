@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/easy"
+        android:title="easy">
+    </item>
+    <item
+        android:id="@+id/normal"
+        android:title="normal">
+    </item>
+    <item
+        android:id="@+id/hard"
+        android:orderInCategory="1"
+        android:title="hard">
+
+    </item>
+
+</menu>
