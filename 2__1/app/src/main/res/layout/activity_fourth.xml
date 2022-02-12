@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginTop="10dp"
+      android:textSize="20sp"
+      android:layout_gravity="center"
+      android:text="Window 4">
+
+  </TextView>
+  <Button
+      android:text="Open window 1"
+      android:layout_marginTop="200dp"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:onClick="onClick"
+      android:id="@+id/button">
+  </Button>
+  <Button
+      android:text="Open window 2"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:onClick="onClick"
+      android:id="@+id/button2">
+  </Button>
+  <Button
+      android:text="Open window 3"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="center"
+      android:onClick="onClick"
+      android:id="@+id/button3">
+  </Button>
+
+</LinearLayout>

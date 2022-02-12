@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/window_1"
+        android:title="1">
+    </item>
+    <item
+        android:id="@+id/window_2"
+        android:title="2">
+    </item>
+    <item
+        android:id="@+id/window_3"
+        android:title="3">
+    </item>
+    <item
+        android:id="@+id/window_4"
+        android:title="4">
+    </item>
+    <item
+        android:id="@+id/window_5"
+        android:title="Name">
+    </item>
+</menu>
